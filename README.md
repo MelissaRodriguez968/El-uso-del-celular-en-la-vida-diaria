@@ -1,4 +1,5 @@
 # El-uso-del-celular-en-la-vida-diaria
+![Texto alternativo]()
 
 ## TEMA:
 Uso del celular
