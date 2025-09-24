@@ -23,14 +23,17 @@ Tambien se pretende observar si existen diferencias entre las edades o habitos, 
 
 ## LOS ELEMENTOS DE DATOS NECESARIOS: 
 
--Numero de horas de uso del celular al dia.
--Aplicaciones mas usadas (redes sociales, musica, juegos, llamadas, mensajeria).
--Cantidad de veces que se desbloquea el celular en un dia.
--Edad de los usuarios (para comparar entre grupos de edades).
--posibles diferencias entre el uso academico, laboral ode entretenimiento.
--Tiempo de uso en diferentes momentos del dia(mañana, tarde, noche).
--Cantidad de notificaciones recibidas al dia.
--Diferencia de uso entre semana y fines de semana.
+1. Número de horas de uso del celular al día.  
+2. Aplicaciones más usadas (redes sociales, música, juegos, llamadas, mensajería).  
+3. Cantidad de veces que se desbloquea el celular en un día.  
+4. Edad de los usuarios (para comparar entre grupos de edades).  
+5. Posibles diferencias entre el uso académico, laboral o de entretenimiento.  
+6. Tiempo de uso en diferentes momentos del día (mañana, tarde, noche).  
+7. Cantidad de notificaciones recibidas al día.  
+8. Diferencia de uso entre semana y fines de semana.  
+
+**FUENTES DE INFORMACIÓN:**
+
 
 ## FUENTES DE INFORMACION:
 
