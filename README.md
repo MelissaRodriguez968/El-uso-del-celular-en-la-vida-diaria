@@ -1,9 +1,7 @@
 # El-uso-del-celular-en-la-vida-diaria
 
 ![Texto alternativo](https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/no-celular1.png)
-<img src="mi_imagen.png" alt="Uso del celular" width="300">
-
-
+![Uso del celular](mi_imagen.png)
 
 ## TEMA:
 Uso del celular
