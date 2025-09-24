@@ -1,7 +1,7 @@
 # El-uso-del-celular-en-la-vida-diaria
 
 <p align="center">
-  <img src="" alt="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulaar.webp" width="40%">
+  <img src="" alt="" width="40%">
 </p>
 
 ## TEMA:
