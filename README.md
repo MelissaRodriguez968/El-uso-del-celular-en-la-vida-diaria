@@ -1,6 +1,7 @@
 # El-uso-del-celular-en-la-vida-diaria
 
-
+![Texto alternativo]()
+<img src="" alt="Uso del celular" width="40%">
 
 ## TEMA:
 Uso del celular
