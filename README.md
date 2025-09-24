@@ -3,10 +3,11 @@
 <p align="center">
   <img src="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulares.jpg" alt="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulares.jpg" width="50%">
 </p>
-<p align="left">Este texto está alineado a la izquierda.</p>
-<p style="text-align: justify;">
-Aquí tu párrafo justificado.  
+## Justificación
+
+<p align="justify">
 </p>
+
 
 ## TEMA:
 Uso del celular
