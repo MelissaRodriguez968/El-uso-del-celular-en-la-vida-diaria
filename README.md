@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulares.jpg" alt="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulares.jpg" width="50%">
 </p>
-<p align="center">Este texto está centrado en GitHub.</p>
+<p align="left">Este texto está alineado a la izquierda.</p>
 
 ## TEMA:
 Uso del celular
