@@ -10,8 +10,11 @@ Para comprender mejor sus usos se busca analizar estadisticas sobre las horas de
 con el fin de identificar patrones en el comportamiento digital y el tiempo que dedican a cada actividad.
 Tambien se pretende observar si existen diferencias entre las edades o habitos, y como el uso del celular influye en la organizacion del dia a dia.
 
+
 ## PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
+
 ¿En que actividades usan mas el celular las personas, y cuantas horas al día lo utilizan?
+
 
 ## LOS ELEMENTOS DE DATOS NECESARIOS: 
 
@@ -23,6 +26,18 @@ Tambien se pretende observar si existen diferencias entre las edades o habitos, 
 -Tiempo de uso en diferentes momentos del dia(mañana, tarde, noche).
 -Cantidad de notificaciones recibidas al dia.
 -Diferencia de uso entre semana y fines de semana.
+
+## FUENTES DE INFORMACION:
+
+https://blog.hospitalangeles.com/posts/uso-excesivo-del-celular-y-su-impacto-en-el-cerebro/
+
+https://blog.uvm.mx/como-afecta-el-uso-del-celular-en-el-aula
+
+https://www.euroinnova.com/blog/uso-correcto-del-celular
+
+https://nextormovil.mx/x_1/2025/02/26/las-aplicaciones-mas-populares-del-mundo-en-2025-descargas-usuarios-e-ingresos/
+
+
 ## OBJETIVO:
 
 Con este analisis se podra identificar las actividades principales para las que las personas usan el celular 
